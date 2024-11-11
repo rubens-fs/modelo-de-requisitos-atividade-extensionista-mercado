@@ -45,6 +45,9 @@ O aplicativo "Mercado do Frota" é uma solução mobile para Android, projetada 
 5. **Painel de Gestão e Relatórios**
    - Dashboard para visualização de métricas de vendas e estoque.
    - Relatórios exportáveis para planilhas.
+  
+6. **Sugestões**
+   - Campo para coletar possíveis sugestões dos clientes.
 
 ---
 

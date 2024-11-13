@@ -86,10 +86,12 @@ O aplicativo "Mercado do Frota" é uma solução mobile para Android, projetada 
 ---
 
 ### Protótipos e Interface do Usuário (UI)
-Os protótipos foram desenvolvidos usando **Canvas** e, adicionalmente, **Figma** para expandir as possibilidades de layout e recursos de navegação.
+O protótipo foi desenvolvido usando **Figma** e, adicionalmente, **Canvas** para expandir as possibilidades de layout e recursos de navegação.
 
 Para acessar o protótipo:
-- Link para o protótipo de navegação: [Protótipo Interativo](https://www.figma.com/design/Bnrti7QwX1siH4k6fPwe1Z/Prot%C3%B3tipo---Mercado-do-Frota?node-id=99-3&t=7aqwldIi8kMsrS2G-1)
+- Link para o protótipo de navegação: [Protótipo](https://www.figma.com/design/Bnrti7QwX1siH4k6fPwe1Z/Prot%C3%B3tipo---Mercado-do-Frota?node-id=99-3&t=7aqwldIi8kMsrS2G-1)
+
+**Nota**: O protótipo apresentado está em fase inicial de desenvolvimento. Em etapas posteriores, ele passará por melhorias e ajustes com base em novos feedbacks e avaliações, a fim de aperfeiçoar as funcionalidades e a experiência do usuário. Esse processo permitirá que o protótipo evolua gradualmente até um formato que guie de forma precisa a construção final do aplicativo.
 
 **Capturas de Tela**:
 - **Tela Inicial**: Acesso rápido ao painel de métricas e navegação simplificada.

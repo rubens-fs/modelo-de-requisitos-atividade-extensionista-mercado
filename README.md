@@ -93,6 +93,10 @@ Para acessar o protótipo:
 
 **Nota**: O protótipo apresentado está em fase inicial de desenvolvimento. Em etapas posteriores, ele passará por melhorias e ajustes com base em novos feedbacks e avaliações, a fim de aperfeiçoar as funcionalidades e a experiência do usuário. Esse processo permitirá que o protótipo evolua gradualmente até um formato que guie de forma precisa a construção final do aplicativo.
 
+### Escolha das Cores no Design
+
+A cor laranja foi selecionada como a cor principal do aplicativo devido ao seu impacto psicológico, especialmente em ambientes comerciais. O laranja é reconhecido por seu efeito estimulante e acolhedor, ideal para criar uma atmosfera amigável e convidativa. Além disso, essa cor promove um senso de urgência e dinamismo, o que facilita o engajamento dos usuários com o aplicativo. A escolha visa, assim, otimizar a experiência do usuário e alinhar o design visual com o objetivo do Mercado do Frota de oferecer um ambiente receptivo e eficiente.
+
 **Capturas de Tela**:
 - **Tela Inicial**: Acesso rápido ao painel de métricas e navegação simplificada.
 - **Controle de Estoque**: Tela para cadastro e visualização de produtos e estoque.
